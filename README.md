@@ -3,9 +3,9 @@
 
 <h4 align="center"> 🔥 VR&AR 해커톤 우수상 </h4>
 
-<!-- <p align="center"> 
-  <img src="https://user-images.githubusercontent.com/47862506/135095468-6f7af812-a0f9-44b8-8353-9e4bf935148d.gif" alt="Sample signal" width="60%" height="60%">
-</p> -->
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/47862506/135111079-3adad9ad-56b9-4221-8e89-d7dfb68af6d2.png" alt="Sample signal" width="60%" height="60%">
+</p>
 
 
 ## 📖 About The Project
